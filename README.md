@@ -1,4 +1,4 @@
-# statistics
+# Statistics
 Welcome to the Hypothesis Testing Toolkit, a Python-based resource for implementing statistical hypothesis tests including:
 
 One-tailed tests
